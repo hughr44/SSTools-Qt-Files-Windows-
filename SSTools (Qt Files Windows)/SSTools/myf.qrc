@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MyFiles"/>
+    <qresource prefix="/">
+        <file>../../Desktop/ShipStation-logo-blue-300x120.png</file>
+    </qresource>
+</RCC>
